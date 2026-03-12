@@ -1,16 +1,5 @@
 import UKPolicySimulator from './UKPolicySimulator';
 
 export default UKPolicySimulator;
-```
 
-- **Save** the file
 
----
-
-## **Your `src/` folder should now look like:**
-```
-src/
-├── App.jsx (new - with the code above)
-├── UKPolicySimulator.jsx (your component)
-├── App.css
-└── index.js
